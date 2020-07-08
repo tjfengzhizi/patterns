@@ -8,7 +8,7 @@ package com.jun.structure.facade;
 public class Test {
     public static void main(String[] args) {
         GiftExchangeService giftExchangeService = new GiftExchangeService();
-        String orderId = giftExchangeService.giftExchange(new PointsGift("cj的100积分"));
+        String orderId = giftExchangeService.giftExchange(new PointsGift("cj的100积分！"));
         System.out.println(orderId);
     }
 }
