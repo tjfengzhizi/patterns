@@ -1,4 +1,4 @@
-package com.jun.creational.strategy.s2;
+package com.jun.behavioral.strategy.s2;
 
 /**
  * @author：cj
